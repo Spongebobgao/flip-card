@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+.board {
+  display:flex;
+  flex-wrap: wrap;
+  width:400px;
+  height: 400px;
+  margin:auto
+}
+.btn{
+  margin: 20px;
+  height: 2rem;
+  background: #b8860b;
+  border: none;
+  color:white;
+  cursor: pointer;
+  box-shadow:2px 2px 2px 2px grey
+}
